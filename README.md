@@ -85,30 +85,46 @@ Each program focuses on small, practical ideas that helped me understand Python 
    ```bash
    python filename.py
 
----
-
-## 🧠 What I Learned
-- Writing Python programs from scratch  
-- Using `if-else` and loops for logic control  
-- Handling user input and output  
-- Working with strings, lists, and dictionaries  
-- Structuring programs for better readability and modularity
-- Strengthening creative and problem-solving skills
+   **Clone this repository**
+   ```bash
+   git clone https://github.com/Naaz-Parween786/Mini-Python-projects-for-logic-and-problem-solving.git
 
 ---
 
-## 🌱 Next Steps
-These beginner projects are my foundation for my **Data Science journey**.  
-Next, I’ll work on:
-- Small data analysis tasks with `pandas` and `matplotlib`
-- Real-world mini projects for data visualization and logic building
+## 📘 What I’ve Learned
+
+✅ Writing complete Python programs from scratch  
+✅ Using loops, functions, and conditionals effectively  
+✅ Handling user input and output  
+✅ Understanding randomness, string formatting, and data handling  
+✅ Building small-scale logical applications step by step  
 
 ---
 
-### ✨ About Me
-Hi, I’m **Naaz**, a B.Sc. Computer Application student learning Python for my Data Science career.  
-I’m passionate about coding, logic building, and continuous learning.  
+## 🚀 Next Steps
 
+I’ll continue improving by learning:  
+- 📊 **pandas**, **numpy**, and **matplotlib** for data analysis  
+- 🧠 Real-world Python projects that combine logic with data visualization  
+- 💻 Object-Oriented Programming (OOP) and problem-solving for interviews  
+
+---
+
+## ✨ About Me
+
+Hi, I’m **Naaz Parween** 👩‍💻  
+🎓 B.Sc. Computer Application student | 💡 Aspiring Data Scientist  
+💬 Passionate about coding, learning, and building logic from scratch.  
 
 📌 *Follow my journey as I grow from a beginner to a data scientist!*
 ⭐ *Feedback and suggestions are always welcome.*
+
+---
+---
+## 🌐 Connect with Me
+
+- **GitHub:** [Naaz-Parween786](https://github.com/Naaz-Parween786)  
+- **LinkedIn:** [Naaz Parween](https://www.linkedin.com/in/naaz-parween-5aba80376/)  
+ 
+
+
