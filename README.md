@@ -82,13 +82,6 @@ Each program focuses on small, practical ideas that helped me understand Python 
 1. Clone or download this repository.  
 2. Open any `.py` file in **VS Code** or any Python IDE.  
 3. Run the program and follow the on-screen instructions.  
-   ```bash
-   python filename.py
-
-   **Clone this repository**
-   ```bash
-   git clone https://github.com/Naaz-Parween786/Mini-Python-projects-for-logic-and-problem-solving.git
-
 ---
 
 ## 📘 What I’ve Learned
