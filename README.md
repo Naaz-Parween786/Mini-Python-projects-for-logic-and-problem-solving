@@ -43,10 +43,47 @@ Each program focuses on small, practical ideas that helped me understand Python 
 
 ---
 
+---
+
+## 🆕 New Additions (More Logic-Based Projects)
+
+### 7. Python Banking Program 🏦
+- A simple console-based banking system with options to:
+  - Show balance  
+  - Deposit and withdraw money  
+  - Handle invalid inputs gracefully  
+- **Concepts practiced:** Functions, loops, conditionals, input validation.
+
+---
+
+### 8. Slot Machine Game 🎰
+- A fun slot machine that spins symbols and pays out based on matches.  
+- Features emoji display and betting system.  
+- **Concepts practiced:** Random module, loops, conditionals, lists.
+
+---
+
+### 9. Encryption Program 🔐
+- A basic encryption–decryption tool that scrambles text using shuffled keys.  
+- **Concepts practiced:** Strings, lists, indexing, random module, data mapping.  
+- **Goal:** Understand character-level encryption logic.
+
+---
+
+### 10. Hangman Game 🎯
+- Classic word guessing game that imports words from an external file (`wordslist.py`).  
+- Shows the hangman drawing after each wrong guess.  
+- **Concepts practiced:** Loops, functions, sets, file imports, conditional statements.  
+- **Goal:** Build a complete text-based game with game-over logic.
+
+---
+
 ## 💻 How to Run
 1. Clone or download this repository.  
-2. Open any `.py` file in VS Code or a Python IDE.  
-3. Run the program and follow the on-screen instructions.
+2. Open any `.py` file in **VS Code** or any Python IDE.  
+3. Run the program and follow the on-screen instructions.  
+   ```bash
+   python filename.py
 
 ---
 
@@ -55,7 +92,8 @@ Each program focuses on small, practical ideas that helped me understand Python 
 - Using `if-else` and loops for logic control  
 - Handling user input and output  
 - Working with strings, lists, and dictionaries  
-- Strengthening problem-solving and creative thinking  
+- Structuring programs for better readability and modularity
+- Strengthening creative and problem-solving skills
 
 ---
 
@@ -71,4 +109,6 @@ Next, I’ll work on:
 Hi, I’m **Naaz**, a B.Sc. Computer Application student learning Python for my Data Science career.  
 I’m passionate about coding, logic building, and continuous learning.  
 
+
 📌 *Follow my journey as I grow from a beginner to a data scientist!*
+⭐ *Feedback and suggestions are always welcome.*
